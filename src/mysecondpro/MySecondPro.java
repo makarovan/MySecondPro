@@ -16,7 +16,7 @@ public class MySecondPro {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("My second programm");
+        System.out.println("My second programmыыыыыы");
         System.out.println("First changes");
         System.out.println("Second changes");
     }
